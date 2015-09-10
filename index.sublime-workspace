@@ -1,0 +1,711 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"a",
+				"default"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"equali",
+				"equalize_on_stack"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"the",
+				"theWidth"
+			],
+			[
+				"p",
+				"pointer"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"bakgrou",
+				"background-color"
+			],
+			[
+				"coll",
+				"collapse-side-nav"
+			],
+			[
+				"n",
+				"nowrap"
+			],
+			[
+				"dr",
+				"drawTimeSliderLabels"
+			],
+			[
+				"times",
+				"times-slider"
+			],
+			[
+				"ti",
+				"times-slider"
+			],
+			[
+				"re",
+				"reDrawTimeBars"
+			],
+			[
+				"get",
+				"getHours"
+			],
+			[
+				"filter",
+				"filterResults"
+			],
+			[
+				"fil",
+				"filterSet"
+			],
+			[
+				"location",
+				"location-choices"
+			],
+			[
+				"mag",
+				"margin-bottom"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"ca",
+				"capacity-slider"
+			],
+			[
+				"capacity",
+				"capacity-slider"
+			],
+			[
+				"new",
+				"newFilterSet"
+			],
+			[
+				"resu",
+				"resultsList"
+			],
+			[
+				"mix",
+				"mix-container"
+			],
+			[
+				"cap",
+				"capacity-count"
+			],
+			[
+				"room",
+				"room-result"
+			],
+			[
+				"meetingT",
+				"meetingTipContent"
+			],
+			[
+				"label",
+				"labelArray"
+			],
+			[
+				"ui-sl",
+				"ui-slider-range"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"mee",
+				"meeting-tip"
+			],
+			[
+				"show",
+				"show-jbox-gallery"
+			],
+			[
+				"reserv",
+				"reserve-btn"
+			],
+			[
+				"organ",
+				"organizers"
+			],
+			[
+				"meeti",
+				"meetingArray"
+			],
+			[
+				"max",
+				"maxRanges"
+			],
+			[
+				"valu",
+				"valueOf"
+			],
+			[
+				"s",
+				"span"
+			],
+			[
+				"amenity",
+				"amenity-list-slick"
+			],
+			[
+				"C",
+				"CustomFileWidget	class"
+			],
+			[
+				"object",
+				"object"
+			],
+			[
+				"backgr",
+				"background-overlay"
+			],
+			[
+				"Client",
+				"Client"
+			],
+			[
+				"form",
+				"form_class	statement"
+			],
+			[
+				"Clie",
+				"ClientAdd	class"
+			],
+			[
+				"Create",
+				"CreateUserForm	import"
+			],
+			[
+				"Cli",
+				"ClientAdd	class"
+			],
+			[
+				"Chec",
+				"CheckSuperuserMixin	class"
+			],
+			[
+				"auto",
+				"auto_now_add	False"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"Applicantist",
+				"ApplicantList"
+			],
+			[
+				"Im",
+				"ImproperlyConfigured	import"
+			],
+			[
+				"Ke",
+				"KeyError	class"
+			],
+			[
+				"DEBUG",
+				"DEBUG	statement"
+			],
+			[
+				"__",
+				"__file__"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ana",
+				"Anaconda: Autoformat PEP8 Errors"
+			],
+			[
+				"",
+				"Anaconda: McCabe complexity check"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/new_dashboard.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/search_results_archive.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/css/timebar.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/index.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/elessar/dist/elessar.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/js/timebar.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/sandbox/settings.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/foundation_calendar.html",
+		"/Users/cwilley/Documents/idealitymode/consulting/guru.com/Quote submissions.txt",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/scss/foundation/components/_global.scss",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/css/foundation.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/new_search_results.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/mixitup2/src/jquery.mixitup.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/jquery-ui/jquery-ui.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/jquery-ui/ui/slider.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/js/foundation/foundation.slider.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/jquery-ui/themes/base/slider.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation-datepicker/js/foundation-datepicker.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/jbox/Source/jBox.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/js/foundation/foundation.reveal.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/foundation_index.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/foundation_user_dashboard.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/foundation_manage_rooms.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/fullcalendar/dist/fullcalendar.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/timeslider.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatpages/foundation_searchform.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/views.py",
+		"/Users/cwilley/Documents/idealitymode/website/content",
+		"/Users/cwilley/Downloads/main/ken/page.php",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/scss/app.scss",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/scss/foundation/_settings.scss",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/scss/foundation/components/_grid.scss",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/anystretch/jquery.anystretch.js",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/sandbox/urls.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/urls.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/bower_components/foundation/css/app.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_dashboard.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_charts.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_forms.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_buttons.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_widgets.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_ui.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_gallery.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/nightsky_icons.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/bootflat_test.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/bootflat_showcase.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/jquery_timepicker.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/core/templates/flatui_template.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/static/assets/css/icomoon-style.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/sandbox/sandbox/manage.sublime-project",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/helpers/secrets.json",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/urls.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/starter files/base.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/starter files/local.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/starter files/beta.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/starter files/secrets.json",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/starter files/.gitignore",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/tree.txt",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/base_public.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/views.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/index.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/forms.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/index.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/list_jobads.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/list_applications.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/interviewquestion_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/about.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/applicant.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/applicant_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/base.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/widgets.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/.gitignore",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/static/assets/css/spinner.css",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/settings/beta.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/urls.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/requirements/base.txt",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/client_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/fixtures/initial_data.json",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/wsgi.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/settings/base.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/settings/local.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/registration/login.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/models.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/views.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/list_interviews.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/list_jobs.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/list_applicants.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/createuser_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/edit_profile_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/site_settings.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/applicant_confirm_delete.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/interview_confirm_delete.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/interview_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/job_confirm_delete.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/job_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/jobad_confirm_delete.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/core/jobad_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/registration/password_change_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/auth/user_confirm_delete.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates/auth/user_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/schedule_interview.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates/set_password_form.html",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/admin.py",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/settings/secrets.json",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/requirements/production.txt",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/requirements/local.txt",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/requirements.txt",
+		"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/hiringly/settings.old",
+		"/Users/cwilley/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/cwilley/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/cwilley/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/cwilley/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/",
+			"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/templates",
+			"/Users/cwilley/Sites/gswd-vagrant/projects/hiringly/hiringly/core/templates",
+			"<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"'2015-07-",
+			"top-bar",
+			"hover",
+			"sidebar",
+			"section",
+			"credit",
+			"envel",
+			"height",
+			"removephantom",
+			"trigger",
+			"add",
+			"\\.on\\(",
+			"change",
+			"removerange",
+			"click",
+			"barArray",
+			"caret",
+			"forw",
+			"back",
+			"bin",
+			"cog",
+			"credit",
+			"coin",
+			"helv",
+			"hide",
+			"filter",
+			"left",
+			"attach",
+			"top",
+			"onopen",
+			"options\\.min",
+			"options",
+			"trigger",
+			"\\$el\\.",
+			"\\$el",
+			"draw",
+			"min",
+			"stop",
+			"valuemax",
+			"step",
+			"valuemax",
+			"left:",
+			"that",
+			"width",
+			"elementOffset",
+			"_normValueFromMouse",
+			"closesthandle",
+			"left",
+			"now",
+			"overflow",
+			"closeonmouseleave",
+			"theme",
+			"cta",
+			"week ",
+			"highlightStateClass",
+			"today",
+			"corner",
+			"button",
+			"hover",
+			"background",
+			"hover",
+			"pencil2",
+			"findGap",
+			"reposition",
+			"allowSwap",
+			"readonly",
+			",\n",
+			"rangeArray",
+			"mouse",
+			"Delete",
+			"delete",
+			"Show",
+			"this.options.data",
+			"remove",
+			"addrange",
+			"trigger",
+			"mousedown",
+			"mouseup",
+			"map",
+			" Mark",
+			"draw",
+			" val",
+			"startTime",
+			"addrange",
+			"mousedown",
+			"setVal",
+			"options.values",
+			"insertRangeIndex",
+			"rangeClass",
+			"addRange",
+			"valueParse",
+			"dereq",
+			" Range",
+			" range",
+			"range",
+			"addrange",
+			"setval",
+			"addRange",
+			"readonly",
+			"mouse",
+			"map",
+			"addrange",
+			" range ",
+			"range",
+			"readonly",
+			"rangeBar",
+			"label",
+			"room_big",
+			"-width",
+			"max-width",
+			"row",
+			"topbar",
+			"\\{% static 'assets/nightsky/(javascript:.*)' %\\}",
+			"href=\"([^#].*?)\"",
+			"src=\"([^http].*?)\"",
+			"\\{% static 'assets/nightsky/(javascript:.*)' %\\}",
+			"src=\"([^http].*?)\"",
+			"href=\"([^#].*?)\"",
+			"\\{% static 'assets/nightsky/(javascript:.*)' %\\}",
+			"href=\"([^#].*?)\"",
+			"src=\"([^http].*?)\"",
+			"\\{% static 'assets/nightsky/(javascript:.*)' %\\}",
+			"\\{% static 'assets/nightsky/(javascript:.*)%\\}",
+			"src=\"([^http].*?)\"",
+			"href=\"([^#].*?)\"",
+			"src=\"([^http].*?)\"",
+			"href=\"([^#].*?)\"",
+			"src=\"([^http].*?)\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"'2015-09-",
+			"$1",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"src=\"{% static 'assets/nightsky/$1' %}\"",
+			"$1",
+			"src=\"{% static 'assets/nightsky/$1' %}\"",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"$1",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"src=\"{% static 'assets/nightsky/$1' %}\"",
+			"$1",
+			"src=\"{% static 'assets/nightsky/$1' %}\"",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"src=\"{% static 'assets/nightsky/$1' %}\"",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"src=\"{% static 'assets/nightsky/$1' %}\"",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"script src",
+			"/css/",
+			"/icons",
+			"/gallery",
+			"/dashboard",
+			"/images",
+			"href=\"{% static 'assets/nightsky/$1' %}\"",
+			"src=\"{% static 'assets/bootflat/$1' %}\"",
+			"class=\"$1\" title=\"$1\"",
+			"title=",
+			"<span class=\"$1\" alt=\"$1\"></span>",
+			"<span class=\"$1\"></span> $1",
+			"<span class=\"$1\"></span>",
+			"$1",
+			"^<ICONNAME>",
+			"<ICONNAME>",
+			"ICONNAME",
+			"\\1\\n",
+			"\"",
+			"dashboard",
+			"core:",
+			"core.",
+			"app.",
+			"app/",
+			"core."
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 25.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 211.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
